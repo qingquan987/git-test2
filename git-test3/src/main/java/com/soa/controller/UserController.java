@@ -7,4 +7,8 @@ public class UserController {
     public void findUserById(){
         System.out.println("findUserById");
     }
+
+    public void updateUser(){
+        System.out.println("updateUser");
+    }
 }
