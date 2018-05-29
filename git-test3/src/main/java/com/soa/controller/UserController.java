@@ -16,5 +16,6 @@ public class UserController {
         System.out.println("deleteUser");
         System.out.println("deleteUser");
         System.out.println("deleteUser");
+        System.out.println("deleteUser");
     }
 }
